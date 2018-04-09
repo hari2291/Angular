@@ -3,8 +3,7 @@
   "version": "0.0.2",
   "description": "One of the sample projects I developed while doing a course on AngularJS",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/planetoftheweb/angular.git"
+    "type": "git"
   },
   "author": "Harshith Sharma",
   "devDependencies": {
